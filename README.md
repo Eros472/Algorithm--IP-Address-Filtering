@@ -1,7 +1,7 @@
 # IP Address Allow List Updater
 
 ## Overview
-This Python script is designed for a healthcare company to manage access to restricted content by updating an allow list of IP addresses. As a security professional, you are tasked with ensuring that only authorized employees (identified by their IP addresses) can access personal patient records. The script checks an allow list against a remove list and updates the allow list file by removing any IP addresses that appear in the remove list.
+This Python script is designed for a healthcare company to manage access to restricted content by updating an allow list of IP addresses. As a security professional, you are tasked with ensuring that only authorized employees (identified by their IP addresses) can access personal patient records. The script checks an allow list against a remove list and updates the allow list file by removing any IP addresses that appear in the remove list. This project was created for the Google Cybersecurity Certificate course portfolio activity: Automate Cybersecurity Tasks with Python Module 4- Python in practice
 
 ## Purpose
 - Maintain a secure subnetwork by regularly updating the allow list of IP addresses.
